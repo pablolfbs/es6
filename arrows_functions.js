@@ -1,6 +1,3 @@
-var dobroDoValor = numero => {
-    let resultado = numero * 2
-    return resultado
-}
+var dobroDoValor = numero => numero * 2
 
 console.log(dobroDoValor(7))
